@@ -18,15 +18,8 @@ A beautifully styled, responsive user registration form built using HTML and CSS
 
 🌈 Gradient Background – Stylish and visually appealing layout
 
-📁 Project Structure
-bash
-Copy
-Edit
-/registration-form/
-│
-├── index.html     # HTML markup for the form
-├── hello.css      # Styling, responsiveness, and animations
 🧪 How to Use
+
 Clone or download the repository.
 
 Open index.html in your browser.
